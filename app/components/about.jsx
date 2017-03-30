@@ -4,7 +4,7 @@ var About = React.createClass({
   render : function() {
     return(
       <div>
-      <h1 className="text-center">About Components</h1>
+      <h1 className="text-center page-title">About Components</h1>
       <p>A quick weather finding app built on react</p>
       <p>The following tools were used</p>
       <ul>
